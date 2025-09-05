@@ -1,0 +1,1 @@
+Projeto em Python com a API do spotify
